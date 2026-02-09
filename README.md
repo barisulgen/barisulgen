@@ -24,7 +24,7 @@
 
 ### 🌍 Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-barisulgen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/barisulgen) [![GitHub](https://img.shields.io/badge/GitHub-barisulgen-181717?style=flat&logo=github&logoColor=white)](https://github.com/barisulgen) [![Website](https://img.shields.io/badge/barisulgen.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://barisulgen.com) [![Email](https://img.shields.io/badge/barisulgen@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:barisulgen@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/barisulgen-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/barisulgen) [![GitHub](https://img.shields.io/badge/GitHub-barisulgen-181717?style=flat&logo=github&logoColor=white)](https://github.com/barisulgen) [![Website](https://img.shields.io/badge/barisulgen.com-000000?style=flat&logo=googlechrome&logoColor=white)](https://barisulgen.com) [![Email](https://img.shields.io/badge/barisulgen@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:barisulgen@gmail.com)
 
 
 <p align="center">
