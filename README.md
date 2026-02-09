@@ -29,5 +29,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Barış+Ülgen+👋;CTO+%40+CogniScope;AI+×+Games+×+Product;Builder+%7C+Tinkerer+%7C+Founder" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=28&duration=4000&color=00FF41&center=true&vCenter=true&width=800&lines=I+build+stuff+and+break+it+until+it+works...%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
 </p>
