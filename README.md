@@ -4,15 +4,6 @@
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue) ![Python](https://img.shields.io/badge/-Python-yellow) ![React](https://img.shields.io/badge/-React-cyan) ![Supabase](https://img.shields.io/badge/-Supabase-green) ![AWS](https://img.shields.io/badge/-AWS-orange) ![Docker](https://img.shields.io/badge/-Docker-blue) ![Web](https://img.shields.io/badge/Web-0A0A0A?style=flat&logo=googlechrome&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-AI-111111?style=flat&logo=anthropic&logoColor=white)
 
----
-
-### 🚀 What I’m working on
-
-- 🧠 CogniScope – Player sentiment + behavior intelligence
-- 🎮 Game industry analytics tools
-- 🛠 Side projects & experiments
-
----
 
 ## 📦 Current Projects
 
