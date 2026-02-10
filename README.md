@@ -7,8 +7,8 @@
 
 ## 📦 Current Projects
 
-- CogniScope Platform
-- Steam analytics tools
+- [CogniScope](https://cogniscope.co/) - AI Sidekick suite for game studios
+- [Steamer](https://github.com/barisulgen/Steamer) - Single-user web tool for fetching, browsing, filtering, editing and exporting Steam games data
 - AI workflow automation
 - Experimental B2C apps
 
