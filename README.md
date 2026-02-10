@@ -14,7 +14,7 @@
 
 ---
 
-### 📦 Current Projects
+## 📦 Current Projects
 
 - CogniScope Platform
 - Steam analytics tools
