@@ -17,6 +17,7 @@
 - [CogniScope](https://cogniscope.co/) - AI Sidekick suite for game studios
 - [Steamer](https://github.com/barisulgen/Steamer) - Single-user web tool for fetching, browsing, filtering, editing and exporting Steam games data
 - [YT-Grab](https://github.com/barisulgen/YT-Grab) - Download YouTube videos or whole playlists as mp3
+- [Two Truths](https://github.com/barisulgen/two-truths) - A real-time, multiplayer party game based on "Two Truths and a Lie."
 
 
 ---
