@@ -19,6 +19,8 @@
 - [YT-Grab](https://github.com/barisulgen/YT-Grab) - Download YouTube videos or whole playlists as mp3
 - [Two Truths](https://github.com/barisulgen/two-truths) - A real-time, multiplayer party game based on "Two Truths and a Lie."
 - [decide2watch](https://github.com/barisulgen/decide2watch) - Tournament-style picker for your next watch
+- [Personal Museum](https://github.com/barisulgen/personal-museum) - A personal 3D photo gallery you can walk through like a virtual museum
+
 
 ---
 
