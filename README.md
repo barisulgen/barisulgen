@@ -20,7 +20,7 @@
 - [Two Truths](https://github.com/barisulgen/two-truths) - A real-time, multiplayer party game based on "Two Truths and a Lie."
 - [decide2watch](https://github.com/barisulgen/decide2watch) - Tournament-style picker for your next watch
 - [Personal Museum](https://github.com/barisulgen/personal-museum) - A personal 3D photo gallery you can walk through like a virtual museum
-
+- [Scene Shiftr](https://github.com/barisulgen/scene-shiftr) - A Windows desktop app that lets you create and switch between custom environments.
 
 ---
 
