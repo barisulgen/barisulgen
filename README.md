@@ -1,6 +1,6 @@
 # Hi, I'm Barış 👋
 
-📍 Istanbul | 🎮 Gamer • ⚙ Tinkerer • 🎸Musician • CTO @ [CogniScope](https://cogniscope.co)
+📍 Istanbul | 🎮 Gamer • ⚙ Tinkerer • 🎸Musician • Founder @[CogniScope](https://cogniscope.co)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=black)
